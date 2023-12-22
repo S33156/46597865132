@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ligh Pole
+* source:	https://sketchfab.com/3d-models/ligh-pole-ec7769b4e00a4b82999b2769ffef05d7
+* author:	cimon (https://sketchfab.com/aithmad2005)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ligh Pole" (https://sketchfab.com/3d-models/ligh-pole-ec7769b4e00a4b82999b2769ffef05d7) by cimon (https://sketchfab.com/aithmad2005) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
